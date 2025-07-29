@@ -1,0 +1,110 @@
+{
+  "1-9": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1",
+      "Clinic (Number of Beds)": null,
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "1",
+      "Clinic (Number of Beds)": null,
+      "Hospital (Number of Beds)": null
+    }
+  },
+  "10-50": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1",
+      "Clinic (Number of Beds)": null,
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "1",
+      "Clinic (Number of Beds)": null,
+      "Hospital (Number of Beds)": null
+    }
+  },
+  "51-99": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1",
+      "Clinic (Number of Beds)": 1,
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "2",
+      "Clinic (Number of Beds)": 1,
+      "Hospital (Number of Beds)": null
+    }
+  },
+  "100-199": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1 for every 100 worker or fraction thereof",
+      "Clinic (Number of Beds)": 1,
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Clinic (Number of Beds)": 2,
+      "Hospital (Number of Beds)": null
+    }
+  },
+  "200-250": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1 for every 100 worker or fraction thereof",
+      "Clinic (Number of Beds)": 2,
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Clinic (Number of Beds)": 2,
+      "Hospital (Number of Beds)": null
+    }
+  },
+  "251-500": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1 for every 100 worker or fraction thereof",
+      "Clinic (Number of Beds)": "Additional 1 for every 200 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Clinic (Number of Beds)": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": null
+    }
+  },
+  "501-750": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1 for every 100 worker or fraction thereof",
+      "Clinic (Number of Beds)": "Additional 1 for every 200 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Clinic (Number of Beds)": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": null
+    }
+  },
+  "751-1000": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1 for every 100 worker or fraction thereof",
+      "Clinic (Number of Beds)": "Additional 1 for every 200 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": null
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Clinic (Number of Beds)": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": 1
+    }
+  },
+  "1001-2000": {
+    "Low Risk": {
+      "First Aid Treatment Room": "1 for every 100 worker or fraction thereof",
+      "Clinic (Number of Beds)": "Additional 1 for every 200 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": 1
+    },
+    "Medium to High Risk": {
+      "First Aid Treatment Room": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Clinic (Number of Beds)": "Additional 1 for every 50 worker or fraction thereof; 1 full time",
+      "Hospital (Number of Beds)": 1
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "egress_and_doors": {
+    "max_distance_to_fire_exit_with_sprinkler": "60 meters",
+    "max_distance_to_fire_exit_without_sprinkler": "45 meters",
+    "main_aisle_to_fire_exit": "1500 mm to 1800 mm",
+    "sub_aisle_width": "1100 mm to 1400 mm (PEZA: 1200 mm min)",
+    "dead_end_limit_without_sprinkler": "6 meters",
+    "dead_end_limit_with_sprinkler": "15 meters (subject to approval)",
+    "doors_required_for_10pax_and_above": "2, far apart, swinging out",
+    "door_leaf_max_width": "1200 mm",
+    "door_leaf_min_height": "2000 mm",
+    "door_leaf_min_width": "700 mm",
+    "server_IDF_LAN_room_door": "Minimum 1 1/2 door width to accommodate equipment",
+    "no_overlapping_swing_doors": true,
+    "disabled_restroom_door_swing": "Swing out, 900 mm clear outside",
+    "turnstile_adjacent_door": "Required, swinging toward fire exit",
+    "door_clearance_to_obstruction": "1100 mm minimum"
+  },
+  "corridors_and_clearances": {
+    "public_corridor_min_width": "1100 mm (unobstructed)",
+    "accessible_corridor_min_width": "1200 mm",
+    "workstation_back_to_back_spacing": "840 mm (PEZA: 900 mm)",
+    "workstation_table_edge_to_edge": "1800 mm",
+    "workstation_to_wall": "900 mm (preferred: 1200 mm)",
+    "workstation_edge_to_wall_clearance": "Minimum 900 mm; preferred 1200 mm",
+    "aisle_one_side_service": "800 mm (min)",
+    "aisle_both_sides_service": "1000 mm (min)"
+  },
+  "furniture_and_workstations": {
+    "adjustable_work_surfaces": "Required to support sit-stand work",
+    "mother_room_requirements": "Sink, seat, table, refrigerator, outlet"
+  },
+  "clinic_and_utilities": {
+    "clinic_provision": "With bed, nurse and doctor as per reference sheet",
+    "electrical_room_wall_area": "Minimum 5 meters",
+    "panel_board_clearance": "900 mm front clearance; 450 mm depth",
+    "critical_IT_floor_grounding": "Loop or interlaced pedestal grounding or anti-static strip",
+    "cable_run_limit": {
+      "copper_max_length": "90 meters including bends and patch cables",
+      "fiber": "Dependent on type"
+    }
+  },
+  "fire_and_safety": {
+    "wall_fire_rating": "1 hour",
+    "gypsum_fire_rating": {
+      "single_layer": "30 mins per layer",
+      "2_hour_requirement": "Staggered, not parallel joints"
+    },
+    "utility_room_fire_rating": "2 hours min",
+    "ceiling_above_utility_room": {
+      "waterproofing": true,
+      "insulation": true
+    },
+    "hose_reel": {
+      "length": "20 meters (standard)",
+      "diameter": "38 mm (1.5 inches)",
+      "location": "Accessible, recessed or in cabinet"
+    },
+    "fire_resistant_doors": "Match wall fire rating"
+  },
+  "restrooms": {
+    "toilet_fixtures_male": {
+      "water_closet": {
+        "1": "1-15 pax",
+        "2": "16-35 pax",
+        "3": "36-55 pax",
+        "additional": "1 per 40 pax"
+      },
+      "urinal": {
+        "0": "1-9 pax",
+        "1": "10-55 pax",
+        "additional": "1 per 50 pax"
+      },
+      "lavatory": {
+        "1": "per 40 pax",
+        "additional": "1 per 40 pax"
+      }
+    },
+    "toilet_fixtures_female": {
+      "water_closet": {
+        "1": "1-15 pax",
+        "2": "16-35 pax",
+        "4": "36-55 pax",
+        "additional": "1 per 40 pax"
+      },
+      "lavatory": {
+        "1": "per 40 pax",
+        "additional": "1 per 40 pax"
+      }
+    }
+  },
+  "plumbing_and_drainage": {
+    "slope_standard": "2% or 21 mm per meter",
+    "slope_exception_102_152mm_pipe": "1% or 10.5 mm per meter",
+    "slope_exception_203mm_pipe": "0.5% or 5.3 mm per meter"
+  }
+}

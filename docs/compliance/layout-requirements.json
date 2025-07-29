@@ -1,0 +1,46 @@
+{
+  "pathways": {
+    "primary_inside_building": "1200 mm (min)",
+    "secondary_inside_building": "1200 mm (min)",
+    "other_pathways": "1200 mm (min)",
+    "wheelchair_turning_radius": "1500 mm (min)"
+  },
+  "ramps": {
+    "ramp_slope": "1:12",
+    "ramp_width": "1200 mm (min)"
+  },
+  "doors": {
+    "floor_surface_threshold": "19 mm (max)",
+    "door_clear_clearance": "900 mm (min)",
+    "door_handle_height": "1060 mm"
+  },
+  "controls": {
+    "switches_height": "920 - 1220 mm",
+    "badge_reader_height": "920 - 1220 mm"
+  },
+  "lavatory": {
+    "toe_and_knee_clearance": "700 mm clear & 800 mm max"
+  },
+  "signage": {
+    "signage_height_on_center": "1500 mm (max)"
+  },
+  "workstations": {
+    "workstation_to_workstation": "1800 mm (min)",
+    "workstation_to_wall": "1200 mm (min)"
+  },
+  "toilet_ratio": {
+    "male_to_female": "40% male / 60% female"
+  },
+  "fire_safety": {
+    "hose_reel_distance": "30 meters (standard hose length: 100 ft)",
+    "dead_end": {
+      "without_sprinkler": "6 meters",
+      "with_sprinkler": "15 meters"
+    },
+    "aisle_distances": {
+      "one_side": "800 mm (min)",
+      "both_sides": "1000 mm (min)"
+    },
+    "fire_exit_quantity_and_distance": "Min. of 2 exits, within 60 meters for floors with automatic Fire Protection System"
+  }
+}

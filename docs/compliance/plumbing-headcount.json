@@ -1,0 +1,588 @@
+{
+  "fixture_ratios": {
+    "assembly_places_theaters_auditoriums_convention_halls_permanent_employee_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 3},
+          {"range": "36-55", "fixtures": 4},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-9", "fixtures": 0},
+          {"range": "10-50", "fixtures": 1},
+          {"additional": "Add one (1) fixture for each additional 50 males"}
+        ]
+      },
+      "lavatories": {
+        "male": "1 per 40",
+        "female": "1 per 40"
+      }
+    },
+    "assembly_places_theaters_auditoriums_convention_halls_public_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-100", "fixtures": 1},
+          {"range": "101-200", "fixtures": 2},
+          {"range": "201-400", "fixtures": 3},
+          {"additional": "Over 400, add 1 fixture for each additional 500 males and 2 for each 300 females"}
+        ],
+        "female": [
+          {"range": "1-50", "fixtures": 3},
+          {"range": "51-100", "fixtures": 4},
+          {"range": "101-200", "fixtures": 8},
+          {"range": "201-400", "fixtures": 11},
+          {"additional": "Over 400, add 1 fixture for each additional 500 males and 2 for each 300 females"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-100", "fixtures": 1},
+          {"range": "101-200", "fixtures": 2},
+          {"range": "201-400", "fixtures": 3},
+          {"range": "401-600", "fixtures": 4},
+          {"additional": "Over 600, add 1 fixture for each additional 500 males"}
+        ]
+      },
+      "lavatories": {
+        "male": [
+          {"range": "1-200", "fixtures": 1},
+          {"range": "201-400", "fixtures": 2},
+          {"range": "401-750", "fixtures": 3},
+          {"additional": "Over 750, add 1 fixture for each additional 500 persons"}
+        ],
+        "female": [
+          {"range": "1-200", "fixtures": 1},
+          {"range": "201-400", "fixtures": 2},
+          {"range": "401-750", "fixtures": 3},
+          {"additional": "Over 750, add 1 fixture for each additional 500 persons"}
+        ]
+      },
+      "drinking_fountains": "1 per 75"
+    },
+    "dormitories_school_or_labor": {
+      "water_closets": {
+        "male": [
+          {"range": "1-10", "fixtures": 1},
+          {"additional": "Add 1 fixture for each additional 25 males (over 10) and 1 for each additional 20 females (over 8)"}
+        ],
+        "female": [
+          {"range": "1-8", "fixtures": 1},
+          {"additional": "Add 1 fixture for each additional 25 males (over 10) and 1 for each additional 20 females (over 8)"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-25", "fixtures": 1},
+          {"additional": "Over 150, add 1 fixture for each additional 50 males"}
+        ]
+      },
+      "lavatories": {
+        "male": [
+          {"range": "1-12", "fixtures": 1},
+          {"additional": "Over 150, add 1 fixture for each additional 20 males and 1 for each 15 additional females"}
+        ],
+        "female": [
+          {"range": "1-12", "fixtures": 1},
+          {"additional": "Over 150, add 1 fixture for each additional 20 males and 1 for each 15 additional females"}
+        ]
+      },
+      "bathtubs_or_showers": "1 per 8"
+    },
+    "dormitories_staff_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 3},
+          {"range": "36-55", "fixtures": 4},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ]
+      },
+      "urinals": {
+        "male": "1 per 50"
+      },
+      "lavatories": {
+        "male": "1 per 40",
+        "female": "1 per 40"
+      },
+      "bathtubs_or_showers": "1 per 8"
+    },
+    "dwellings": {
+      "single_dwelling_multiple_dwelling_or_apartment": {
+        "water_closets": "1 per dwelling",
+        "lavatories": "1 per dwelling or apartment unit",
+        "bathtubs_or_showers": "1 per dwelling or apartment unit"
+      },
+      "hospital_waiting_rooms": {
+        "water_closets": "1 per room",
+        "lavatories": "1 per room",
+        "drinking_fountains": "1 per 75"
+      }
+    },
+    "hospital_for_employee_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-9", "fixtures": 0},
+          {"range": "10-50", "fixtures": 1},
+          {"additional": "Add 1 fixture for each additional 50 males"}
+        ]
+      },
+      "lavatories": {
+        "male": [
+          {"range": "1-40", "fixtures": 1},
+          {"additional": "Over 150, add 1 fixture for each additional 20 males and 1 for each 15 additional females"}
+        ],
+        "female": [
+          {"range": "1-40", "fixtures": 1},
+          {"additional": "Over 150, add 1 fixture for each additional 20 males and 1 for each 15 additional females"}
+        ]
+      }
+    },
+    "hospitals": {
+      "individual_room_and_room": {
+        "water_closets": "1 per person or 1 per 8 patients",
+        "lavatories": "1 per room or 1 per 10 patients",
+        "bathtubs_or_showers": "1 per room or 1 per 20 patients",
+        "drinking_fountains": "1 per 75"
+      }
+    },
+    "industrial_warehouses_workshops_foundries_and_other_establishments_for_employee_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-10", "fixtures": 1},
+          {"range": "11-25", "fixtures": 2},
+          {"range": "26-50", "fixtures": 3},
+          {"range": "51-75", "fixtures": 4},
+          {"range": "76-100", "fixtures": 5},
+          {"additional": "Over 100, add 1 fixture for each additional 30 persons"}
+        ],
+        "female": [
+          {"range": "1-10", "fixtures": 1},
+          {"range": "11-25", "fixtures": 2},
+          {"range": "26-50", "fixtures": 3},
+          {"range": "51-75", "fixtures": 4},
+          {"range": "76-100", "fixtures": 5},
+          {"additional": "Over 100, add 1 fixture for each additional 30 persons"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "Up to 100", "fixtures": "1 per 10 persons"},
+          {"additional": "Over 100, 1 per 15 persons"}
+        ]
+      },
+      "bathtubs_or_showers": "1 shower for each 15 persons exposed to excessive heat or to skin contamination with poisonous, infectious, or irritating material",
+      "drinking_fountains": "1 per 75"
+    },
+    "institutional_other_than_hospitals_or_penal_institutions_on_each_occupied_floor": {
+      "water_closets": {
+        "male": "1 per 25",
+        "female": "1 per 20"
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-9", "fixtures": 0},
+          {"range": "10-50", "fixtures": 1},
+          {"additional": "Add 1 fixture for each additional 50 males"}
+        ]
+      },
+      "lavatories": {
+        "male": "1 per 10",
+        "female": "1 per 10"
+      },
+      "bathtubs_or_showers": "1 per 8",
+      "drinking_fountains": "1 per 75"
+    },
+    "institutional_other_than_hospitals_or_penal_institutions_on_each_occupied_floor_for_employee_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 3},
+          {"range": "36-55", "fixtures": 4},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-9", "fixtures": 0},
+          {"range": "10-50", "fixtures": 1},
+          {"additional": "Add 1 fixture for each additional 50 males"}
+        ]
+      },
+      "lavatories": {
+        "male": "1 per 40",
+        "female": "1 per 40"
+      },
+      "bathtubs_or_showers": "1 per 8",
+      "drinking_fountains": "1 per 75"
+    },
+    "office_or_public_buildings": {
+      "water_closets": {
+        "male": [
+          {"range": "1-100", "fixtures": 1},
+          {"range": "101-200", "fixtures": 2},
+          {"range": "201-400", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 500 males and 2 for each 300 females"}
+        ],
+        "female": [
+          {"range": "1-200", "fixtures": 1},
+          {"range": "201-400", "fixtures": 2},
+          {"range": "401-750", "fixtures": 3},
+          {"additional": "Over 600, add 1 fixture for each additional 300 males"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-100", "fixtures": 1},
+          {"range": "101-200", "fixtures": 2},
+          {"range": "201-400", "fixtures": 3},
+          {"range": "401-600", "fixtures": 4},
+          {"additional": "Over 750, add 1 fixture for each additional 500 persons"}
+        ]
+      },
+      "lavatories": {
+        "male": [
+          {"range": "1-200", "fixtures": 1},
+          {"range": "201-400", "fixtures": 2},
+          {"range": "401-750", "fixtures": 3},
+          {"additional": "Over 750, add 1 fixture for each additional 500 persons"}
+        ],
+        "female": [
+          {"range": "1-200", "fixtures": 1},
+          {"range": "201-400", "fixtures": 2},
+          {"range": "401-750", "fixtures": 3},
+          {"additional": "Over 750, add 1 fixture for each additional 500 persons"}
+        ]
+      }
+    },
+    "office_or_public_buildings_for_employee_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 3},
+          {"range": "36-55", "fixtures": 4},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-9", "fixtures": 0},
+          {"range": "10-50", "fixtures": 1},
+          {"additional": "Add 1 fixture for each additional 50 males"}
+        ]
+      },
+      "lavatories": {
+        "male": "1 per 40",
+        "female": "1 per 40"
+      }
+    },
+    "penal_institutions_for_employee_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 3},
+          {"range": "36-55", "fixtures": 4},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-9", "fixtures": 0},
+          {"range": "10-50", "fixtures": 1},
+          {"additional": "Add 1 fixture for each additional 50 males"}
+        ]
+      },
+      "lavatories": {
+        "male": "1 per 40",
+        "female": "1 per 40"
+      },
+      "drinking_fountains": "1 per 75"
+    },
+    "penal_institutions_for_prison_use": {
+      "cell": {
+        "water_closets": "1 per cell",
+        "lavatories": "1 per cell"
+      },
+      "exercise_room": {
+        "water_closets": "1 per exercise room",
+        "lavatories": "1 per exercise room",
+        "urinals": "1 per exercise room"
+      },
+      "drinking_fountains": "1 per cell block floor; 1 per exercise room"
+    },
+    "restaurants_pubs_and_lounges": {
+      "water_closets": {
+        "male": [
+          {"range": "1-50", "fixtures": 1},
+          {"range": "51-150", "fixtures": 2},
+          {"range": "151-300", "fixtures": 3},
+          {"additional": "Over 300, add 1 fixture for each additional 200 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 3},
+          {"range": "36-55", "fixtures": 4},
+          {"additional": "Over 300, add 1 fixture for each additional 200 persons"}
+        ]
+      },
+      "urinals": {
+        "male": [
+          {"range": "1-150", "fixtures": 1},
+          {"additional": "Over 150, add 1 fixture for each additional 150 males"}
+        ]
+      },
+      "lavatories": {
+        "male": [
+          {"range": "1-150", "fixtures": 1},
+          {"range": "151-200", "fixtures": 2},
+          {"range": "201-400", "fixtures": 3},
+          {"additional": "Over 400, add 1 fixture for each additional 400 persons"}
+        ],
+        "female": [
+          {"range": "1-150", "fixtures": 1},
+          {"range": "151-200", "fixtures": 2},
+          {"range": "201-400", "fixtures": 3},
+          {"additional": "Over 400, add 1 fixture for each additional 400 persons"}
+        ]
+      }
+    },
+    "schools_for_staff_use": {
+      "water_closets": {
+        "male": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 2},
+          {"range": "36-55", "fixtures": 3},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ],
+        "female": [
+          {"range": "1-15", "fixtures": 1},
+          {"range": "16-35", "fixtures": 3},
+          {"range": "36-55", "fixtures": 4},
+          {"additional": "Over 55, add 1 fixture for each additional 40 persons"}
+        ]
+      },
+      "urinals": {
+        "male": "1 per 50"
+      },
+      "lavatories": {
+        "male": "1 per 40",
+        "female": "1 per 40"
+      }
+    },
+    "schools_for_student_use": {
+      "nursery": {
+        "water_closets": {
+          "male": [
+            {"range": "1-20", "fixtures": 1},
+            {"range": "21-50", "fixtures": 2},
+            {"additional": "Over 50, add 1 fixture for each additional 50 persons"}
+          ],
+          "female": [
+            {"range": "1-20", "fixtures": 1},
+            {"range": "21-50", "fixtures": 2},
+            {"additional": "Over 50, add 1 fixture for each additional 50 persons"}
+          ]
+        },
+        "lavatories": {
+          "male": [
+            {"range": "1-150", "fixtures": 1},
+            {"range": "26-50", "fixtures": 2},
+            {"additional": "Over 50, add 1 fixture for each additional 50 persons"}
+          ],
+          "female": [
+            {"range": "1-25", "fixtures": 1},
+            {"range": "26-50", "fixtures": 2},
+            {"additional": "Over 50, add 1 fixture for each additional 50 persons"}
+          ]
+        },
+        "drinking_fountains": "1 per 75"
+      },
+      "elementary": {
+        "water_closets": {
+          "male": "1 per 30",
+          "female": "1 per 25"
+        },
+        "urinals": {
+          "male": "1 per 75"
+        },
+        "lavatories": {
+          "male": "1 per 35",
+          "female": "1 per 35"
+        },
+        "drinking_fountains": "1 per 75"
+      },
+      "secondary": {
+        "water_closets": {
+          "male": "1 per 40",
+          "female": "1 per 30"
+        },
+        "urinals": {
+          "male": "1 per 35"
+        },
+        "lavatories": {
+          "male": "1 per 40",
+          "female": "1 per 30"
+        },
+        "drinking_fountains": "1 per 75"
+      },
+      "others_colleges_universities_adult_centers": {
+        "water_closets": {
+          "male": "1 per 40",
+          "female": "1 per 30"
+        },
+        "urinals": {
+          "male": "1 per 35"
+        },
+        "lavatories": {
+          "male": "1 per 40",
+          "female": "1 per 30"
+        },
+        "drinking_fountains": "1 per 75"
+      }
+    },
+    "worship_places": {
+      "educational_and_activities_unit": {
+        "water_closets": {
+          "male": [
+            {"range": "1-25", "fixtures": 1},
+            {"range": "126-250", "fixtures": 2}
+          ],
+          "female": [
+            {"range": "1-75", "fixtures": 1},
+            {"range": "76-125", "fixtures": 2},
+            {"range": "126-250", "fixtures": 3}
+          ]
+        },
+        "urinals": {
+          "male": "1 per 25"
+        },
+        "lavatories": "1 per 2 water closets",
+        "drinking_fountains": "1 per 75"
+      },
+      "principal": {
+        "water_closets": {
+          "male": "1 per 150",
+          "female": "1 per 75"
+        },
+        "urinals": {
+          "male": "1 per 150"
+        },
+        "lavatories": "1 per 2 water closets",
+        "drinking_fountains": "1 per 75"
+      }
+    }
+  },
+  "notes": {
+    "general": [
+      "The figures shown are based upon one (1) fixture being the minimum required for the number of persons indicated or any fraction thereof",
+      "Building categories not shown on this table shall be considered separately by the Administrative Authority",
+      "Drinking fountains shall not be installed in toilet rooms"
+    ],
+    "laundry_trays": "One (1) laundry tray or one (1) automatic washer standpipe for each dwelling unit or two (2) laundry trays or two automatic washer standpipes, or combination thereof, for each ten (10) apartments",
+    "kitchen_sinks": "One (1) for each dwelling or apartment unit",
+    "service_sinks": "As required by ANSI 2.4.1 - Installation in Places of Employment",
+    "skin_contamination": "Where there is exposure to skin contamination with poisonous, infectious, or irritating materials, provide one (1) lavatory for each five (5) persons",
+    "wide_rim_lavatories": "Wide 609.6 mm or wash sink 457.2-mm diameter a circular basin, when provided with water outlets for such space, shall be considered equivalent to one (1) lavatory",
+    "slop_sinks": "Laundry trays, one (1) for each fifty (50) persons. Slop sinks, one (1) for each 100 persons",
+    "accessibility": "General - In applying this schedule of facilities, consideration must be given to the accessibility of the fixtures. Conformity purely on a numerical basis may not result in an installation suited to the need of the individual establishment",
+    "temporary_workingmen_facilities": "For example, schools should be provided with toilet facilities on each floor having classrooms. Temporary workingmen facilities, one (1) water closet and one (1) urinal for each thirty (30) workmen",
+    "urinal_materials": "Surrounding materials, wall ample floor space to a point 0.6 meter in front of urinal lip and 1.2 m above the floor and at least 0.6 m to each side of the urinal shall be lined with non-absorbent materials",
+    "trough_urinals": "Trough urinals are prohibited",
+    "restaurant_definition": "A restaurant is defined as a business which sells food to be consumed on the premises",
+    "drive_in_restaurant": "The number of occupants for a drive-in restaurant shall be considered as equal to the number of parking stalls",
+    "employee_toilet_facilities": "Employee toilet facilities are not be included in the above restaurant requirements. Hand-washing facilities must be available in the kitchen for employees",
+    "drinking_fountains_substitution": "When food is consumed indoors, water stations may be substituted for drinking fountains. Theaters, auditoriums, dormitories, offices or public buildings for use by more than six (6) persons shall have one (1) drinking fountain for the first seventy-five (75) persons and one (1) additional fountain for each one hundred and fifty (150) persons thereafter",
+    "minimum_drinking_fountains": "There shall be a minimum of one (1) drinking fountain per occupied floor in schools, theaters, auditoriums, dormitories, offices or public buildings",
+    "total_water_closets": "The total number of water closets for females shall be at least equal to the total number of water closets and urinals required for males",
+    "urinal_substitution": "Wherever urinals are provided, one (1) water closet is subtracted from the number specified on the table, except that the total number of water closets in such cases shall not be reduced to less than two-thirds (2/3) of the minimum specified"
+  },
+  "current_building_headcount": {
+    "floors": {
+      "5th": {
+        "production_office_fixed_desk": {
+          "headcount": 112,
+          "male": 45,
+          "female": 67
+        },
+        "support_office_staff": {
+          "headcount": 12,
+          "male": 5,
+          "female": 7
+        },
+        "cafeteria_concessionaire_staff": {
+          "headcount": 156,
+          "male": 62,
+          "female": 94
+        }
+      },
+      "6th_to_8th": {
+        "production_office_fixed_desk": {
+          "headcount": 212,
+          "male": 85,
+          "female": 127
+        },
+        "support_office_staff": {
+          "headcount": 0,
+          "male": 0,
+          "female": 0
+        },
+        "training_room_function_area_option_1": {
+          "headcount": 60,
+          "male": 24,
+          "female": 36
+        },
+        "training_room_function_area_option_2": {
+          "headcount": 178,
+          "male": 71,
+          "female": 107
+        }
+      }
+    }
+  }
+}
