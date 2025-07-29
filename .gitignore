@@ -25,3 +25,5 @@ desktop.ini
 node_modules/
 __pycache__/
 images/.DS_Store
+docs/broken_links_report.md
+docs/check_image_urls.py
