@@ -24,3 +24,4 @@ desktop.ini
 # Node / Python (optional, in case you later add scripts)
 node_modules/
 __pycache__/
+images/.DS_Store
