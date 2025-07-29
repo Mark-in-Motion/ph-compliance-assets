@@ -56,7 +56,7 @@ This document shows the key Occupational Safety and Health (OSH) standards requi
 ## General Provisions and Declaration of Policy  
 
 **File:** `05_Dole/dole_ra11058_general_provisions.png`  
-**Path:** `https://mmoser1.sharepoint.com/sites/TreasureBox/AI/STATUTORY_CODES_PH/Image_Reference/05_Dole/dole_ra11058_general_provisions.png`  
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/05_dole/dole_ra11058_general_provisions.png`  
 **Description:** Outlines the policy coverage of all private sector establishments under RA 11058. Includes guidelines for safety programs, worker protection, and the scope of coverage across sectors such as PEZA zones, transportation, agriculture, and maritime.
 
 ---
@@ -64,15 +64,15 @@ This document shows the key Occupational Safety and Health (OSH) standards requi
 ## OSH Committee Structure and Staffing Requirements  
 
 **File:** `05_Dole/dole_ra11058_osh_committee_chart.png`  
-**Path:** `https://mmoser1.sharepoint.com/sites/TreasureBox/AI/STATUTORY_CODES_PH/Image_Reference/05_Dole/dole_ra11058_osh_committee_chart.png`  
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/05_dole/dole_ra11058_osh_committee_chart.png`  
 **Description:** Shows committee composition by risk category and workforce size. Contains chart detailing the required number of First Aiders, Occupational Health Nurses, Dentists, and Physicians for both Low and High Risk workplaces.
 
 ---
 
 ## DOLE-Compliant Safety/PPE Cabinet – Sample Configuration  
 
-**File:** `CUrRjrs.png`
-**Path:** `https://i.imgur.com/CUrRjrs.png`  
+**File:** `dole_safety_ppe_cabinet.png`
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/05_dole/dole_safety_ppe_cabinet.png`  
 **Description:** Typical layout of a PPE cabinet including required items such as evacuation mattresses, first aid kits, radios, torches, whistles, survival kits, and high-visibility vests. Equipment complies with DOLE EHS requirements for each building floor.
 
 ---

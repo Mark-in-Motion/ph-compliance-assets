@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder tags
+*.DS_Store
+Icon?
+._*
+
+# Thumbnails
+._*
+
+# Spotlight files
+.Spotlight-V100
+.Trashes
+
+# GitHub Desktop
+desktop.ini
+
+# Git logs
+*.log
+
+# Node / Python (optional, in case you later add scripts)
+node_modules/
+__pycache__/
