@@ -5,6 +5,8 @@
 
 # macOS Finder tags
 *.DS_Store
+**/.DS_Store
+
 Icon?
 ._*
 

@@ -40,7 +40,7 @@ This section provides diagrammatic references aligned with key workplace complia
 ## 1. Braille Script Height for Room Tags
 
 **File:** `braille_script_height.png`
-**Path:** `public/images/01 - compliance/braille_script_height.png`
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/01_compliance/braille_script_height.png`
 **Description:** Detail showing required installation height for Braille script on room signage. The script must be mounted between 1016 mm and 1524 mm (40 to 60 inches) from the finished floor.
 
 ---
@@ -48,7 +48,7 @@ This section provides diagrammatic references aligned with key workplace complia
 ## 2. Workstation Spacing (Chair to Chair)
 
 **File:** `workstation_spacing_chair_to_chair.png`
-**Path:** `public/images/01 - compliance/workstation_spacing_chair_to_chair.png`
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/01_compliance/workstation_spacing_chair_to_chair.png`
 **Description:** Diagram illustrating back-to-back spacing for workstations. A minimum clearance of 840 mm (PEZA) between chairs is required, and table-to-table distance must be 1800 mm. Reference: Section 1207 of PD 1096.
 
 ---
@@ -56,7 +56,7 @@ This section provides diagrammatic references aligned with key workplace complia
 ## 3. Workstation Spacing (Table to Wall)
 
 **File:** `workstation_spacing_to_wall.png`
-**Path:** `public/images/01 - compliance/workstation_spacing_to_wall.png`
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/01_compliance/workstation_spacing_to_wall.png`
 **Description:** Minimum clearance between a workstation table and a perimeter wall is 900 mm, with a preferred clearance of 1200 mm based on actual use. Reference: Section 1207 of PD 1096.
 
 ---
@@ -69,7 +69,7 @@ Let me know if you want to group these into a subsection like `## Workstation La
 ## 4. Mothers Room Layout
 
 **File:** `mothers_room_layout.png`
-**Path:** `public/images/01 - compliance/mothers_room_layout.png`
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/01_compliance/mothers_room_layout.png`
 **Description:** Floor plan showing the required provisions for a mothers room, including sink, seat, small refrigerator, and outlet for a breast pump unit. Based on DOLE D.O. 143, May 2015.
 
 ---
@@ -77,7 +77,7 @@ Let me know if you want to group these into a subsection like `## Workstation La
 ## 5. Fire Exit Clearance
 
 **File:** `fire_exit_clearance.png`
-**Path:** `public/images/01 - compliance/fire_exit_clearance.png`
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/01_compliance/fire_exit_clearance.png`
 **Description:** Clearance diagram showing the required 1500–1800 mm aisle width for access to fire exits. In line with PD 1096 and the 2019 Fire Code RIRR.
 
 ---
@@ -85,5 +85,5 @@ Let me know if you want to group these into a subsection like `## Workstation La
 ## 6. Adjustable Workstations
 
 **File:** `adjustable_workstations.png`
-**Path:** `public/images/01 - compliance/adjustable_workstations.png`
+**Path:** `https://mark-in-motion.github.io/ph-compliance-assets/images/01_compliance/adjustable_workstations.png`
 **Description:** Visual showing tables and work surfaces designed for adjustability, supporting sit-stand flexibility to promote ergonomic working conditions. Based on DOLE D.O. 178, August 2017.
